@@ -1,0 +1,52 @@
+body{
+    background-color: #02075d!important;
+    position: relative;
+}
+
+nav {
+    background-color: #02075d!important;
+}
+
+footer {
+    position: fixed;
+    bottom:0px;
+    
+
+}
+footer > div {
+    background-color: #02075d;
+    text-align: center;
+    width: 100vw;
+    height: 30px;
+}
+
+.text-center h1 {
+    font-size: 80px;
+    color: lightpink
+}
+
+#about-us {
+    font-size: 60px;
+    color:lightpink;
+}
+
+.about-us-text {
+    font-size: 30px;
+    color:lightpink;
+}
+
+small {
+    color:white;
+}
+
+.carousel-inner {
+    height: 70vh;
+}
+
+.carousel-inner .carousel-item {
+    height: 70vh;
+}
+
+.carousel-item img {
+    height:70vh;
+}
